@@ -1,5 +1,4 @@
 # Gist
-+ Built an LSTM-based model with two layers (32 and 16 units) to predict climate patterns using the "Jena Climate 2009–2016" dataset.
-+ Reduced training loss from 0.3175 to 0.1135 and validation loss from 0.1627 to 0.1343 over 10 epochs.
-+ Visualized training and validation performance to evaluate model accuracy and prevent overfitting.
++ Developed an LSTM-based RNN model for predicting future climate values using historical time-series data, selecting features like temperature, humidity, and wind speed.
++ Achieved a final validation loss of 0.1343 and a testing loss of 0.1135 after 10 epochs of training, demonstrating effective model training on climate prediction.
 
